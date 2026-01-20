@@ -25,3 +25,18 @@ A full-stack stock trading web application that allows users to simulate buying 
 ## ⚙️ Installation & Setup
 1. Clone the repository  
 
+
+2. Install dependencies  
+
+
+3. Start the application  
+
+
+## 📌 Future Enhancements
+- Real-time trading charts
+- Role-based access control
+- Deployment on cloud platforms
+
+## 👩‍💻 Author
+**Swapnaja Surendra Khemkar**  
+Final Year Electrical Engineering Student | Aspiring Software Engineer
